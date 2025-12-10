@@ -1,0 +1,105 @@
+tylerprellwitz@Tylers-MacBook-Air-2 week-17-mon-lab-preltyler006 % ./lab18-main
+
+1. Create a new graph
+2. Check if the graph is undirected or directed
+3. Find the number of vertices
+4. Find the number of edges
+5. Check if an edge exists
+6. Toggle an edge
+7. Print the graph
+8. Exit
+
+Enter your choice: 1
+
+Enter how many vertices are in the graph: 5
+Enter 0 for undirected or 1 for directed: 1
+
+1. Create a new graph
+2. Check if the graph is undirected or directed
+3. Find the number of vertices
+4. Find the number of edges
+5. Check if an edge exists
+6. Toggle an edge
+7. Print the graph
+8. Exit
+
+Enter your choice: 6
+
+Enter the first vertex: 2
+Enter the second vertex: 5
+
+1. Create a new graph
+2. Check if the graph is undirected or directed
+3. Find the number of vertices
+4. Find the number of edges
+5. Check if an edge exists
+6. Toggle an edge
+7. Print the graph
+8. Exit
+
+Enter your choice: 7
+
+    0 1 2 3 4 
+-------------
+0 | 0 0 0 0 0 
+1 | 0 0 0 0 0 
+2 | 0 0 0 0 0 
+3 | 0 0 0 0 0 
+4 | 0 0 0 0 0 
+
+1. Create a new graph
+2. Check if the graph is undirected or directed
+3. Find the number of vertices
+4. Find the number of edges
+5. Check if an edge exists
+6. Toggle an edge
+7. Print the graph
+8. Exit
+
+Enter your choice: 6
+
+Enter the first vertex: 1
+Enter the second vertex: 3
+
+1. Create a new graph
+2. Check if the graph is undirected or directed
+3. Find the number of vertices
+4. Find the number of edges
+5. Check if an edge exists
+6. Toggle an edge
+7. Print the graph
+8. Exit
+
+Enter your choice: 7
+
+    0 1 2 3 4 
+-------------
+0 | 0 0 0 0 0 
+1 | 0 0 0 1 0 
+2 | 0 0 0 0 0 
+3 | 0 0 0 0 0 
+4 | 0 0 0 0 0 
+
+1. Create a new graph
+2. Check if the graph is undirected or directed
+3. Find the number of vertices
+4. Find the number of edges
+5. Check if an edge exists
+6. Toggle an edge
+7. Print the graph
+8. Exit
+
+Enter your choice: 5
+
+Enter the first vertex: 3
+Enter the second vertex: 1
+The edge from 3 to 1 does not exist.
+
+1. Create a new graph
+2. Check if the graph is undirected or directed
+3. Find the number of vertices
+4. Find the number of edges
+5. Check if an edge exists
+6. Toggle an edge
+7. Print the graph
+8. Exit
